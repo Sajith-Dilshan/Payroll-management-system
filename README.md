@@ -11,4 +11,4 @@ This payroll system is  design for garment industry. That garment industry have 
 According to this project, the programming language that used is visual basic.net language. I am used integrated development environment (IDE) as a Microsoft visual studio 2015.It is one in which the processes and tools are coordinated to provide developers and orderly Interface to and convenient view of the development process.
 
 
-you can use is code for education purposes
+you can use this code for education purposes
