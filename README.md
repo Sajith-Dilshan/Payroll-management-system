@@ -1,16 +1,26 @@
 # Payroll-management-system
 
-https://user-images.githubusercontent.com/75051796/120091681-0ebdb400-c12b-11eb-99e2-96dc9df08264.jpg
+
+<br>
+<hr>
+<br>
+
+<img src="https://user-images.githubusercontent.com/75051796/120091681-0ebdb400-c12b-11eb-99e2-96dc9df08264.jpg">
+  
+  <br>
+  
+  <hr>
 
 
 
 
 
 
-
-This system is my university second year vb.net project
-
-Live Demo : https://www.youtube.com/watch?v=TgcPybfgzRc
+<h2>This system is my university second year vb.net project</h2>
+<br>
+<hr>
+<h1 style="color:red"><a href="https://www.youtube.com/watch?v=TgcPybfgzRc">LIVE DEMO</a></h1>
+<hr>
 <br>
 Project Database file : http://www.mediafire.com/file/8ceb6lzi3704vbj/payrolldb.rar/file
 <br>
