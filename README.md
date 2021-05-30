@@ -1,4 +1,13 @@
 # Payroll-management-system
+
+https://user-images.githubusercontent.com/75051796/120091681-0ebdb400-c12b-11eb-99e2-96dc9df08264.jpg
+
+
+
+
+
+
+
 This system is my university second year vb.net project
 
 Live Demo : https://www.youtube.com/watch?v=TgcPybfgzRc
